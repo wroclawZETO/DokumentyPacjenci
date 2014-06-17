@@ -11,5 +11,6 @@ namespace DokumentyPacjenci
         void a() { }
 
         int b = 5;
-    }
+        int a = 10;
+    } 
 }
